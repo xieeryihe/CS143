@@ -1,0 +1,15 @@
+使用手册
+https://zhuanlan.zhihu.com/p/108167693
+http://westes.github.io/flex/manual/
+
+知乎
+https://zhuanlan.zhihu.com/p/258385544
+
+出现/usr/bin/python^M: bad interpreter: No such file or directory 报错
+
+vim里面输入
+:set ff=unix
+
+测试脚本：
+注意测试的文件夹目录
+https://pastebin.com/UfXXLV5N PA2的检查脚本
